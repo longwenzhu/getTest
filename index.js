@@ -1,2 +1,1 @@
-console.log('hello');
-console.log(33);
+(function(){console.log('test')}());
